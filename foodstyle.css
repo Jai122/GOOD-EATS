@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+h1 {
+  text-align: center;
+  color: yellow;
+  background-color: white;
+  border-color: #000000;
+  border-style:solid;
+  box-shadow: 5px 5px #000000;
+  font-family: 'Amatic SC', cursive;
+  font-size: 80px
+}
+
+h2 {
+  text-align: left;
+  color: yellow;
+  width: 300px;
+  background-color: white;
+  border-color: #000000;
+  border-style:solid;
+  box-shadow: 5px 5px #000000;
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px
+}
+
+h3 {
+  text-align: left;
+  color: yellow;
+  width: 170px;
+  background-color: white;
+  border-color: #000000;
+  border-style:solid;
+  box-shadow: 5px 5px #000000;
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px
+}
+
+h4 {
+  text-align: center;
+  width: 600px;
+  color: red;
+  background-color: white;
+  border-color: #000000;
+  border-style:solid;
+  box-shadow: 5px 5px #000000;
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px
+}
+#recipe{
+  text-align: left;
+  padding:20px;
+  width: 1000px;
+  background-color: white;
+  border-color: #000000;
+
+  border-style:solid;
+  box-shadow: 5px 5px #000000;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 16px
+}
+
+body {
+  background-image: url(https://i.pinimg.com/736x/00/fb/be/00fbbe23fcd75b2f8bbafe1a12bdd4f5--egg-wallpaper-iphone-wallpaper-food.jpg);
+}
